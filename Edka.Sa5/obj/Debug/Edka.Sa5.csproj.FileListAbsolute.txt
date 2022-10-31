@@ -1,0 +1,8 @@
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\bin\Debug\Edka.Sa5.exe.config
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\bin\Debug\Edka.Sa5.exe
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\bin\Debug\Edka.Sa5.pdb
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\obj\Debug\Edka.Sa5.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\obj\Debug\Edka.Sa5.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\obj\Debug\Edka.Sa5.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\obj\Debug\Edka.Sa5.exe
+C:\Users\GEOVANE\Desktop\curso c# youtube\Edka\Edka.Sa5\obj\Debug\Edka.Sa5.pdb
