@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Edka.Sa5 {
+namespace Edka.Sa05 {
     internal class Program {
 
         public static List<Disciplina> disciplina = new List<Disciplina>

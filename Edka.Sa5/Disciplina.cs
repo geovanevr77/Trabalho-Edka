@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Edka.Sa5 {
+namespace Edka.Sa05 {
     internal class Disciplina {
 
         public string Materia { get; set; }
