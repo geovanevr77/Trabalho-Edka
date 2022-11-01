@@ -1,0 +1,8 @@
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\bin\Debug\Edka.Sa6.exe.config
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\bin\Debug\Edka.Sa6.exe
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\bin\Debug\Edka.Sa6.pdb
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\obj\Debug\OOEdka.Sa6.csproj.AssemblyReference.cache
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\obj\Debug\OOEdka.Sa6.csproj.SuggestedBindingRedirects.cache
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\obj\Debug\OOEdka.Sa6.csproj.CoreCompileInputs.cache
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\obj\Debug\Edka.Sa6.exe
+C:\Users\GEOVANE\Desktop\Edka\Edka.Sa6\obj\Debug\Edka.Sa6.pdb
