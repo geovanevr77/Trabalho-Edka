@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edka.Sa06", "Edka.Sa06\Edka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edka.Sa07", "Edka.Sa07\Edka.Sa07.csproj", "{26AC29D0-B8EB-4E87-9FA5-009421F4EB4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edka.Sa08", "Edka.Sa08\Edka.Sa08.csproj", "{E7758DCD-770D-4F38-8183-77B42713BCAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{26AC29D0-B8EB-4E87-9FA5-009421F4EB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AC29D0-B8EB-4E87-9FA5-009421F4EB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AC29D0-B8EB-4E87-9FA5-009421F4EB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7758DCD-770D-4F38-8183-77B42713BCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7758DCD-770D-4F38-8183-77B42713BCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7758DCD-770D-4F38-8183-77B42713BCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7758DCD-770D-4F38-8183-77B42713BCAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
